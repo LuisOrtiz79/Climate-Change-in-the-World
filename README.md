@@ -3,6 +3,7 @@ Luis E. Ortiz Cotto
 Alex A. Ortiz Cotto
 
 This repository contains the a notebook to uses in google collab and the link for that:
+https://colab.research.google.com/drive/127vf6VHhEAHKs9xsx2eUehcT1Qt09Ity?usp=sharing
 
 Also contains the two google docs:
 1) Contains the anwers and conclusion of the proyect and the link:
