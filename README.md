@@ -9,6 +9,7 @@ Also contains the two google docs:
 1) Contains the anwers and conclusion of the proyect and the link:
 
 2) Contains all meetings of the group and the link:
+https://docs.google.com/document/d/1g3y91lx2d_fSaDm_HgomOCAnTsxxbiYJJh4d3U_HF_8/edit?usp=sharing
 
 The instructions on how to use the datas for the google collab:
 
