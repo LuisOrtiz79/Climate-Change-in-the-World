@@ -8,6 +8,7 @@ https://colab.research.google.com/drive/127vf6VHhEAHKs9xsx2eUehcT1Qt09Ity?usp=sh
 
 Also contains the two google docs:
 1) Contains the anwers and conclusion of the proyect and the link:
+https://docs.google.com/document/d/1vPpc0JspeQmhCgc-hu4w0cQD6UblCyM7U0YIoRs3Srs/edit?usp=sharing
 
 2) Contains all meetings of the group and the link:
 https://docs.google.com/document/d/1g3y91lx2d_fSaDm_HgomOCAnTsxxbiYJJh4d3U_HF_8/edit?usp=sharing
